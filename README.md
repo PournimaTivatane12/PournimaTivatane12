@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pournima Tivatane</h1>
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS Projects as a Cloud Engineer"</h3       
 
-<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw3J6oewLu-wnUOepP_xO4o-&ust=1710671879350000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNisjb_L-IQDFQAAAAAdAAAAABAE
+<img align="right" alt="coding"width="400"src=https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazZEX2ExMlVxTmJtS1FtSW1IZ0NtY0FUQk9XZ3xBQ3Jtc0tsUWZPRTl0OUJlc0hWVGFRM3AybEtNVUZXS21SV2Y5eHQ5bXdDXzdLR05DRDg1b2tWdU5tM2NUSlE1aWlmalRwYUlydDUwNXBXWFJ6UFQ0OEJ0NjJtY1B1UHgyZ05fZV84RGE1WHJQckdvUGI5NW1Edw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0
 - 🔭 I’m currently working on **serverless compute**
 
 - 🌱 I’m currently learning **AWS,Making Projects**
