@@ -2,15 +2,10 @@
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS Projects as a Cloud Engineer"</h3       
 
 - 🔭 I’m currently working on **serverless compute**
-
 - 🌱 I’m currently learning **AWS,Making Projects**
-
 - 👯 I’m looking to collaborate on **open source project,**
-
-- 🤝 I’m looking for help with **Kubernetes**
-
+- 🤝 I’m looking for help with **Kubernetes*
 - 💬 Ask me about **Cloud,Python,DevOps**
-
 - 📫 How to reach me **rktivatane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
