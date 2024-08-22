@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pournima Tivatane</h1>
+<h1 align="center">Hi 👋, I'm Pournima </h1>
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS Projects as a Cloud Engineer"</h3       
 
 - 🔭 I’m currently working on **serverless compute**
