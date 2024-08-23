@@ -1,11 +1,11 @@
-<h1 align="center">👋, I'm Pournima </h1>
+<h1 align="center">👋, I'm Pournima Tivatane </h1>
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS Projects as a Cloud Engineer"</h3       
 
 - 🔭 I’m currently working on **serverless compute**
 - 🌱 I’m currently learning **DevOps Tool's,Making Projects**
 - 👯 I’m looking to collaborate on **open source project,**
 - 🤝 I’m looking for help with **Kubernetes*
-- 💬 Ask me about **Cloud,Python,DevOps**
+- 💬 Ask me about ** Ask me anything, and I am happy to help, (only if the ball is in my court!😉)**
 - 📫 How to reach me **rktivatane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
