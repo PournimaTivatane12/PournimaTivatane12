@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DevOps Tool's,Making Projects**
 - 👯 I’m looking to collaborate on **open source project,**
 - 🤝 I’m looking for help with **Kubernetes*
-- 💬 Ask me about ** Ask me anything, and I am happy to help, (only if the ball is in my court!😉)**
+- 💬 ** Ask me anything, and I am happy to help, (only if the ball is in my court!😉)**
 - 📫 How to reach me **rktivatane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
