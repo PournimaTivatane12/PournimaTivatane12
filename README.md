@@ -8,6 +8,8 @@
 - 💬 ** Ask me anything, and I am happy to help, (only if the ball is in my court!😉)**
 - 📫 How to reach me **rktivatane@gmail.com**
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/PournimaTivatane12/PournimaTivatane12)](https:/https://github.com/PournimaTivatane12/PournimaTivatane12/github.com//github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pournima tivatane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pournima tivatane" height="30" width="40" /></a>
