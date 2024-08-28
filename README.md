@@ -2,7 +2,7 @@
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS Projects as a Cloud Engineer"</h3       
 
 - 🔭 I’m currently working on **serverless compute**
-- 🌱 I’m currently learning **DevOps Tool's**
+- 🌱 I’m currently learning **New DevOps Tool's**
 - 👯 I’m looking to collaborate on **open source project,**
 - 🤝 I’m looking for help with **Kubernetes*
 - 💬 ** Ask me anything, and I am happy to help, (only if the ball is in my court!😉)**
