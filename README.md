@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **PSF Project**
 - 🌱 I’m currently learning **New DevOps Tool's**
 - 👯 I’m looking to collaborate on **open source project,**
-- 🤝 I’m looking for help with **Kubernetes*
+- 🤝 I’m looking for help with **Kubernetes**
 - 💬 Ask me anything, and I am happy to help, (only if the ball is in my court!😉)
 - 📫 How to reach me **rktivatane@gmail.com**
 - [![Pournima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PournimaTivatane12)](https://github.com/https://PournimaTivatane12/PournimaTivatane12/github-readme-activity-graph)
