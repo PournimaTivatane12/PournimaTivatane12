@@ -1,7 +1,7 @@
 <h1 align="center"> Hi There, I'm Pournima!👋 </h1>
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS-DevOps Projects"</h3       
 
-- 🔭 I’m currently working on **PII Masking Forms Project**
+- 🔭 I’m currently working on ****Automated Object Management** Project**
 - 🌱 I’m currently learning **New DevOps Tool's**
 - 👯 I’m looking to collaborate on **open source project**
 - 🤝 I’m looking for help with **Kubernetes**
