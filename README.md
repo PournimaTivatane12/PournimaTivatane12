@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ****Automated Object Management** Project**
 - 🌱 I’m currently learning **K8's**
 - 👯 I’m looking to collaborate on **open source project**
-- 🤝 I’m looking for help with **My Projects'**
+- 🤝 I’m looking for help with **My Project's**
 - 💬 Ask me anything, and I am happy to help, **(only if the ball is in my court!😉)**
 - 📫 How to reach me **rktivatane@gmail.com**
   # ⚙️  GitHub Analytics
