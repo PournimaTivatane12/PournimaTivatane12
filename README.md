@@ -2,6 +2,7 @@
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS-DevOps Projects"</h3       
 
 - 🔭 I’m currently working on [Automated-Object-Management] [https://github.com/PournimaTivatane12/Automated-Object-Management]
+  
 - 🌱 I’m currently learning **K8's**
 - 👯 I’m looking to collaborate on **open source project**
 - 🤝 I’m looking for help with **My Project's**
