@@ -2,7 +2,7 @@
 <h3 align="center">"Architecting Innovation: Crafting Unique AWS-DevOps Projects"</h3       
 
 - 🔭 I’m currently working on [Automated-Object-Management] 
-- 🌱 I’m currently learning **K8's**
+- 🌱 I’m currently learning **What I Need**
 - 👯 I’m looking to collaborate on **open source project**
 - 🤝 I’m looking for help with **My Project's**
 - 💬 Ask me anything, and I am happy to help, **(only if the ball is in my court!😉)**
