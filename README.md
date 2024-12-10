@@ -27,3 +27,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pournimativatane12&show_icons=true&locale=en" alt="pournimativatane12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pournimativatane12&" alt="pournimativatane12" /></p>
+
+
+
+
+
+
+![Build Status](https://github.com/PournimaTivatane12/repository/actions/workflows/ci.yml/badge.svg)
