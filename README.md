@@ -11,6 +11,9 @@
 - [![Pournima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PournimaTivatane12)](https://github.com/https://PournimaTivatane12/PournimaTivatane12/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
+
+Feel free to reach out if you want to collaborate on any project or just want to connect!
+
 <p align="left">
 <a href="https://twitter.com/pournima tivatane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pournima tivatane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/" height="30" width="40" /></a>
